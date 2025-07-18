@@ -1,0 +1,38 @@
+.details_card {
+  display: flex;
+  align-items: flex-start;
+  
+  padding: 20px;
+  margin: 20px 0;
+
+}
+
+.location_image img {
+  width: 200px;
+  height: 250px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.location_image {
+  margin-right: 24px;
+  flex-shrink: 0;
+}
+
+.location_section {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.place_detail {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 12px;
+}
+
+.des_section p {
+  margin: 4px 0;
+}
