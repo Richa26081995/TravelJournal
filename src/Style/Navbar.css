@@ -1,0 +1,15 @@
+.header{
+    display: flex;
+    background-color: rgba(217, 69, 69, 0.794);
+    color: white;
+    font-weight: 900;
+    padding: 30px;
+    text-align: center;
+    justify-content: center;
+}
+.Travel-logo{
+    position: relative;
+    top: 5px;
+    right: 10px;
+    font-size: 18px;
+}
